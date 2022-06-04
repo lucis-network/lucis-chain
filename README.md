@@ -1,4 +1,4 @@
-# Octopus Appchain Template
+# Lucis chain
 
 # TODO
 ```
